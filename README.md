@@ -1,7 +1,7 @@
 # COVID-19 Data Analysis Project
 
 ## Overview
-This project analyzes COVID-19 data using Python, Pandas, NumPy, Matplotlib, and Seaborn
+This project analyzes COVID-19 data using Python, Pandas, NumPy, Matplotlib, and Seaborn.
 
 ## Dataset
 Source: Our World in Data (OWID)
